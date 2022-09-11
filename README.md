@@ -1,2 +1,2 @@
 # notebookpic
-pic lib for note book
+pictures lib for note book
